@@ -1,6 +1,6 @@
 opencv-python-headless
 ultralytics
-torch==2.9.0
-torchvision==0.19.0
+torch==2.9.1
+torchvision==0.24.1
 SQLAlchemy
 psycopg2-binary
